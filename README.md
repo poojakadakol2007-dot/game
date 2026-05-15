@@ -1,6 +1,8 @@
 # game
 application for game
-<img width="1268" height="737" alt="Screenshot 2026-05-15 103311" src="https://github.com/user-attachments/assets/f7a8f008-67d0-4764-bc19-896782bf4e49" />
+ <img width="690" height="677" alt="Screenshot 2026-05-15 104229" src="https://github.com/user-attachments/assets/4a925853-d319-4f4c-9da9-5b84c6968405" />
+ <img width="671" height="649" alt="Screenshot 2026-05-15 104240" src="https://github.com/user-attachments/assets/96a99595-c14e-40d9-b4eb-43e06e40e44d" />
+
 
 
 
